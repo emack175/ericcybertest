@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/ericcybertest/Laburl)
-  - [Hello World!](https://github.com/ericcybertest/Laburl)
-<h2> Certifications</h2>
+  - [Azure Sentinel Map Lab](https://github.com/ericcybertest/Laburl)
+  
+<h2> :page_with_curl: Certifications</h2>
 
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>:movie_camera: Popular Youtube Videos </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
