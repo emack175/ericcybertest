@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel Map Lab](https://github.com/ericcybertest/Laburl)
+  - [Azure Sentinel Map Lab](https://github.com/emack175/AzureSentinelTutorialMap)
   
 <h2> :page_with_curl: Certifications</h2>
 
