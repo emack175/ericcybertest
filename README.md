@@ -4,9 +4,6 @@
 
   - [Azure Sentinel Map Lab](https://github.com/emack175/AzureSentinelTutorialMap)
   
-<h2> :page_with_curl: Certifications</h2>
-
-<h2>:movie_camera: Popular Youtube Videos </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
